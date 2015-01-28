@@ -1,0 +1,21 @@
+table {
+	
+	border: 10px solid white;
+	border-style: ridge;
+}
+td {
+	height: 65px;
+	width: 65px;
+	border: 3px solid black;
+	border-style: inset;
+}
+tr {
+	height: 65px;
+	width: 65px;
+	border: 3px solid black;
+	border-style: inset;
+}
+input {
+	font-variant: small-caps;
+	font-size: 20px;
+}
